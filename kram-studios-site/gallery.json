@@ -1,0 +1,30 @@
+{
+  "brand": "Kram Studios",
+  "service_area": "Located in VA \u2014 shoots anywhere in the US",
+  "categories": [
+    {
+      "name": "Featured",
+      "slug": "featured",
+      "photos": [
+        {
+          "src": "assets/gallery/full/ram-bhagyashri-va-visit-1.jpg",
+          "thumb": "assets/gallery/thumb/ram-bhagyashri-va-visit-1.jpg",
+          "alt": "Kram Studios \u2014 candid moment",
+          "category": "Featured"
+        },
+        {
+          "src": "assets/gallery/full/ram-bhagyashri-va-visit-21.jpg",
+          "thumb": "assets/gallery/thumb/ram-bhagyashri-va-visit-21.jpg",
+          "alt": "Kram Studios \u2014 candid moment",
+          "category": "Featured"
+        },
+        {
+          "src": "assets/gallery/full/ram-bhagyashri-va-visit-30.jpg",
+          "thumb": "assets/gallery/thumb/ram-bhagyashri-va-visit-30.jpg",
+          "alt": "Kram Studios \u2014 candid moment",
+          "category": "Featured"
+        }
+      ]
+    }
+  ]
+}
